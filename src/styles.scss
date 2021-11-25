@@ -1,0 +1,50 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  display:flex;
+  flex-wrap: wrap-reverse;
+}
+
+.ButtonSignOff{
+  border: 1px solid red;
+  min-width: 50px;
+  min-height: 50px;
+  
+}
+
+.TitleSideBar{
+  border: 1px solid red;
+  min-width: 250px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.MainDash{
+  border: 1px solid red;
+  min-width: 500px;
+  min-height: 500px;
+}
+
+.Slide{
+  border: 1px solid red;
+  min-width: 250px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column-reverse;
+
+
+}
+
+.conHeaderOfSlide{
+  min-width: 250px;
+  min-height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
